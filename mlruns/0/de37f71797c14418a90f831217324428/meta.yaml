@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ADMIN/Documents/Data%20Analytics/Machine%20Learning/ML%20Projects/End_End_Project_With_MLFlow/mlruns/0/de37f71797c14418a90f831217324428/artifacts
+end_time: 1721221761239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de37f71797c14418a90f831217324428
+run_name: judicious-shrew-426
+run_uuid: de37f71797c14418a90f831217324428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721221752602
+status: 3
+tags: []
+user_id: ADMIN

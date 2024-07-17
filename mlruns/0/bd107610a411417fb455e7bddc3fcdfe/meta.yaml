@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ADMIN/Documents/Data%20Analytics/Machine%20Learning/ML%20Projects/End_End_Project_With_MLFlow/mlruns/0/bd107610a411417fb455e7bddc3fcdfe/artifacts
+end_time: 1721223163756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd107610a411417fb455e7bddc3fcdfe
+run_name: vaunted-sow-350
+run_uuid: bd107610a411417fb455e7bddc3fcdfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721223158408
+status: 3
+tags: []
+user_id: ADMIN

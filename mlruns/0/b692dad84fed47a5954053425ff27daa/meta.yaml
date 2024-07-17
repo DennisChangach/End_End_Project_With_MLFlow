@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ADMIN/Documents/Data%20Analytics/Machine%20Learning/ML%20Projects/End_End_Project_With_MLFlow/mlruns/0/b692dad84fed47a5954053425ff27daa/artifacts
+end_time: 1721222685976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b692dad84fed47a5954053425ff27daa
+run_name: amusing-mink-792
+run_uuid: b692dad84fed47a5954053425ff27daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721222679932
+status: 3
+tags: []
+user_id: ADMIN
