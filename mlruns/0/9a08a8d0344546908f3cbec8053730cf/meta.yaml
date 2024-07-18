@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ADMIN/Documents/Data%20Analytics/Machine%20Learning/ML%20Projects/End_End_Project_With_MLFlow/mlruns/0/9a08a8d0344546908f3cbec8053730cf/artifacts
+end_time: 1721297584669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a08a8d0344546908f3cbec8053730cf
+run_name: mercurial-snake-904
+run_uuid: 9a08a8d0344546908f3cbec8053730cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721297572983
+status: 3
+tags: []
+user_id: ADMIN
